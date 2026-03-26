@@ -54,6 +54,12 @@
 - **[Burn](https://github.com/tracel-ai/burn)** ![GitHub stars](https://img.shields.io/github/stars/tracel-ai/burn?style=social) - Next-generation deep learning framework in Rust. Backend-agnostic with CPU, GPU, WebAssembly support.
 - **[Candle (Hugging Face)](https://github.com/huggingface/candle)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/candle?style=social) - Minimalist ML framework for Rust. PyTorch-like API with focus on performance and simplicity.
 
+#### NLP & Transformers
+
+- **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) - The de facto standard library for pretrained NLP models. 1M+ models, 250,000+ downloads/day. BERT, GPT, Llama, Qwen, and hundreds more.
+- **[sentence-transformers](https://github.com/UKPLab/sentence-transformers)** ![GitHub stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social) - Classic library for sentence and image embeddings.
+- **[tokenizers (Hugging Face)](https://github.com/huggingface/tokenizers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=social) - Fast state-of-the-art tokenizers for training and inference.
+
 #### Data Processing & Manipulation
 
 - **[Pandas](https://github.com/pandas-dev/pandas)** ![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social) - The gold standard for data analysis and manipulation in Python.
@@ -222,7 +228,6 @@
 
 #### Embedding Models
 
-- **[sentence-transformers](https://github.com/UKPLab/sentence-transformers)** ![GitHub stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social) - Classic library for sentence and image embeddings.
 - **[BGE (FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)** ![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social) - BAAI's best-in-class embedding family.
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm/tree/master/e5)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
 - **[Nomic Embed](https://github.com/nomic-ai/nomic-embed)** ![GitHub stars](https://img.shields.io/github/stars/nomic-ai/nomic-embed?style=social) - Open embedding model with long-context support and reproducible training.
@@ -390,7 +395,6 @@
 
 #### Alignment & RLHF Tools
 
-- **[TRL (Transformers Reinforcement Learning)](https://github.com/huggingface/trl)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social) - Official library for RLHF, DPO, ORPO, KTO.
 - **[Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/safe-rlhf?style=social) - Safe reinforcement learning from human feedback.
 - **[Alignment Handbook](https://github.com/huggingface/alignment-handbook)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/alignment-handbook?style=social) - Complete recipes for full-stack alignment.
 - **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)** ![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social) - High-performance distributed RLHF framework.
